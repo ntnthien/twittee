@@ -30,7 +30,7 @@ class HomeViewController: BaseViewController {
         
     }
     
-    func loadData() {
+    @objc func loadData() {
         if let client = User.client {
             let parameters =  Dictionary<String, AnyObject>()
             client.get(API_HOME_URL, parameters: parameters, success: {

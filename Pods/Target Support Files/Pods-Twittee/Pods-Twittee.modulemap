@@ -1,0 +1,6 @@
+framework module Pods_Twittee {
+  umbrella header "Pods-Twittee-umbrella.h"
+
+  export *
+  module * { export * }
+}

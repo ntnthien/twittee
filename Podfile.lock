@@ -1,0 +1,18 @@
+PODS:
+  - Alamofire (3.4.1)
+  - HanekeSwift (0.10.1)
+  - OAuthSwift (0.4.8)
+
+DEPENDENCIES:
+  - Alamofire (~> 3.0)
+  - HanekeSwift
+  - OAuthSwift (~> 0.4.6)
+
+SPEC CHECKSUMS:
+  Alamofire: 01a82e2f6c0f860ade35534c8dd88be61bdef40c
+  HanekeSwift: 08e47d3d0f2899ec58e5d257beba0de619aca9e8
+  OAuthSwift: 23bd4807a4fd9e54ef6e7c2b5875138819186d9a
+
+PODFILE CHECKSUM: d350d2a4d1e5a2cb5faa46e12e4db5356cd600aa
+
+COCOAPODS: 1.0.1
